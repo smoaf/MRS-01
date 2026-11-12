@@ -1,0 +1,23 @@
+object,file,size_x_mm,size_y_mm,height_mm,solid_volume_cm3,joints,neighbours,lies_outside_of
+Back shell,MRS-01_shell_01.stl,337,303,169,558.8,9,shell_04 shell_05 shell_06 shell_07,shell_04 shell_05 shell_06 shell_07
+Back shell,MRS-01_shell_02.stl,327,307,166,782.4,10,shell_06 shell_07 shell_11 shell_12,shell_06 shell_07 shell_11 shell_12
+Back shell,MRS-01_shell_03.stl,340,301,168,626.2,13,shell_04 shell_05 shell_09 shell_10,shell_04 shell_05 shell_09 shell_10
+Back shell,MRS-01_shell_04.stl,332,297,244,370.7,11,shell_01 shell_03 shell_05 shell_07,shell_05 shell_07
+Back shell,MRS-01_shell_05.stl,334,281,110,585.7,9,shell_01 shell_03 shell_04,
+Back shell,MRS-01_shell_06.stl,329,305,132,500.2,10,shell_01 shell_02 shell_07,shell_07
+Back shell,MRS-01_shell_07.stl,337,299,245,348.5,12,shell_01 shell_02 shell_04 shell_06 shell_12,shell_12
+Back shell,MRS-01_shell_08.stl,334,304,173,559.0,9,shell_09 shell_10 shell_11 shell_12,shell_09 shell_10 shell_11 shell_12
+Back shell,MRS-01_shell_09.stl,333,306,233,371.5,12,shell_03 shell_08 shell_10 shell_12,shell_10 shell_12
+Back shell,MRS-01_shell_10.stl,334,302,106,585.7,9,shell_03 shell_08 shell_09,
+Back shell,MRS-01_shell_11.stl,335,293,130,500.1,10,shell_02 shell_08 shell_12,shell_12
+Back shell,MRS-01_shell_12.stl,340,307,232,347.1,12,shell_02 shell_07 shell_08 shell_09 shell_11,
+Front plate,MRS-01_plate_01.stl,328,302,92,164.2,5,plate_02 plate_05 plate_06,plate_02 plate_05 plate_06
+Front plate,MRS-01_plate_02.stl,331,304,305,121.8,8,plate_01 plate_04 plate_05 plate_07 plate_08 plate_09,plate_04 plate_05 plate_07 plate_08 plate_09
+Front plate,MRS-01_plate_03.stl,340,299,211,158.3,5,plate_04 plate_06 plate_08 plate_10,plate_04 plate_06 plate_08 plate_10
+Front plate,MRS-01_plate_04.stl,338,306,251,89.3,6,plate_02 plate_03 plate_06,plate_06
+Front plate,MRS-01_plate_05.stl,266,305,92,232.5,4,plate_01 plate_02 plate_09,plate_09
+Front plate,MRS-01_plate_06.stl,304,308,73,132.9,5,plate_01 plate_03 plate_04,
+Front plate,MRS-01_plate_07.stl,333,307,96,165.7,5,plate_02 plate_09 plate_10,plate_09 plate_10
+Front plate,MRS-01_plate_08.stl,321,309,260,89.3,5,plate_02 plate_03 plate_10,plate_10
+Front plate,MRS-01_plate_09.stl,318,304,91,231.5,4,plate_02 plate_05 plate_07,
+Front plate,MRS-01_plate_10.stl,320,291,81,133.1,5,plate_03 plate_07 plate_08,

@@ -1,0 +1,41 @@
+object,file,size_x_mm,size_y_mm,height_mm,solid_volume_cm3,joints,neighbours,lies_outside_of
+Back shell,MRS-01_shell_01.stl,204,219,78,485.9,11,shell_10 shell_12 shell_22,shell_10 shell_12 shell_22
+Back shell,MRS-01_shell_02.stl,176,225,92,311.6,9,shell_09 shell_13 shell_23,shell_09 shell_13 shell_23
+Back shell,MRS-01_shell_03.stl,212,244,84,333.4,9,shell_06 shell_07 shell_08 shell_11,shell_06 shell_07 shell_08 shell_11
+Back shell,MRS-01_shell_04.stl,245,243,162,187.2,8,shell_06 shell_10 shell_11 shell_14 shell_16,shell_06 shell_10 shell_11 shell_14 shell_16
+Back shell,MRS-01_shell_05.stl,242,245,100,174.4,10,shell_08 shell_09 shell_11 shell_13 shell_14,shell_08 shell_09 shell_11 shell_13 shell_14
+Back shell,MRS-01_shell_06.stl,244,244,175,184.0,10,shell_03 shell_04 shell_07 shell_10 shell_11 shell_12,shell_07 shell_10 shell_11 shell_12
+Back shell,MRS-01_shell_07.stl,204,223,88,290.0,7,shell_03 shell_06 shell_12,shell_12
+Back shell,MRS-01_shell_08.stl,245,242,93,371.3,7,shell_03 shell_05 shell_11 shell_13,shell_11 shell_13
+Back shell,MRS-01_shell_09.stl,242,246,146,201.1,13,shell_02 shell_05 shell_13 shell_14 shell_17 shell_23 shell_24,shell_13 shell_14 shell_17 shell_23 shell_24
+Back shell,MRS-01_shell_10.stl,240,237,178,217.3,11,shell_01 shell_04 shell_06 shell_12 shell_16 shell_18 shell_22,shell_12 shell_16 shell_18 shell_22
+Back shell,MRS-01_shell_11.stl,240,245,140,188.4,12,shell_03 shell_04 shell_05 shell_06 shell_08 shell_14,shell_14
+Back shell,MRS-01_shell_12.stl,242,239,108,310.5,9,shell_01 shell_06 shell_07 shell_10,
+Back shell,MRS-01_shell_13.stl,210,235,83,298.2,9,shell_02 shell_05 shell_08 shell_09,
+Back shell,MRS-01_shell_14.stl,241,245,134,175.5,9,shell_04 shell_05 shell_09 shell_11 shell_24,shell_24
+Back shell,MRS-01_shell_15.stl,212,244,93,333.3,9,shell_18 shell_19 shell_20 shell_21,shell_18 shell_19 shell_20 shell_21
+Back shell,MRS-01_shell_16.stl,244,245,151,186.6,8,shell_04 shell_10 shell_18 shell_21 shell_24,shell_18 shell_21 shell_24
+Back shell,MRS-01_shell_17.stl,245,238,97,174.5,10,shell_09 shell_20 shell_21 shell_23 shell_24,shell_20 shell_21 shell_23 shell_24
+Back shell,MRS-01_shell_18.stl,242,246,174,183.9,10,shell_10 shell_15 shell_16 shell_19 shell_21 shell_22,shell_19 shell_21 shell_22
+Back shell,MRS-01_shell_19.stl,202,232,78,290.1,7,shell_15 shell_18 shell_22,shell_22
+Back shell,MRS-01_shell_20.stl,245,244,94,371.3,7,shell_15 shell_17 shell_21 shell_23,shell_21 shell_23
+Back shell,MRS-01_shell_21.stl,246,240,150,188.4,12,shell_15 shell_16 shell_17 shell_18 shell_20 shell_24,shell_24
+Back shell,MRS-01_shell_22.stl,244,236,104,310.7,9,shell_01 shell_10 shell_18 shell_19,
+Back shell,MRS-01_shell_23.stl,196,230,81,298.2,9,shell_02 shell_09 shell_17 shell_20,
+Back shell,MRS-01_shell_24.stl,240,229,159,174.6,9,shell_09 shell_14 shell_16 shell_17 shell_21,
+Front plate,MRS-01_plate_01.stl,232,244,172,121.0,4,plate_04 plate_06 plate_07 plate_10,plate_04 plate_06 plate_07 plate_10
+Front plate,MRS-01_plate_02.stl,235,188,51,40.1,4,plate_05 plate_07 plate_13 plate_15,plate_05 plate_07 plate_13 plate_15
+Front plate,MRS-01_plate_03.stl,245,242,145,97.9,4,plate_06 plate_08 plate_14,plate_06 plate_08 plate_14
+Front plate,MRS-01_plate_04.stl,237,244,245,73.5,6,plate_01 plate_06 plate_07 plate_08 plate_09,plate_06 plate_07 plate_08 plate_09
+Front plate,MRS-01_plate_05.stl,223,240,64,170.2,3,plate_02 plate_10 plate_13,plate_10 plate_13
+Front plate,MRS-01_plate_06.stl,240,242,74,92.5,3,plate_01 plate_03 plate_04,
+Front plate,MRS-01_plate_07.stl,239,243,144,49.8,5,plate_01 plate_02 plate_04 plate_09 plate_10,plate_09 plate_10
+Front plate,MRS-01_plate_08.stl,245,244,232,56.1,6,plate_03 plate_04 plate_12,plate_12
+Front plate,MRS-01_plate_09.stl,243,231,99,68.1,4,plate_04 plate_07 plate_12 plate_15,plate_12 plate_15
+Front plate,MRS-01_plate_10.stl,236,215,113,122.8,3,plate_01 plate_05 plate_07,
+Front plate,MRS-01_plate_11.stl,191,239,191,120.7,4,plate_12 plate_14 plate_15 plate_16,plate_12 plate_14 plate_15 plate_16
+Front plate,MRS-01_plate_12.stl,244,245,238,73.4,6,plate_08 plate_09 plate_11 plate_14 plate_15,plate_14 plate_15
+Front plate,MRS-01_plate_13.stl,217,222,60,169.0,3,plate_02 plate_05 plate_16,plate_16
+Front plate,MRS-01_plate_14.stl,234,245,66,92.8,3,plate_03 plate_11 plate_12,
+Front plate,MRS-01_plate_15.stl,245,225,167,49.7,5,plate_02 plate_09 plate_11 plate_12 plate_16,plate_16
+Front plate,MRS-01_plate_16.stl,237,213,113,124.4,3,plate_11 plate_13 plate_15,
